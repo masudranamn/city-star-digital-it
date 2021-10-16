@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>KnightOne Bootstrap Template - Index</title>
+  <title>City Star Digital It</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -44,7 +44,7 @@
 
       <div class="row justify-content-center">
         <div class="col-xl-9 d-flex align-items-center justify-content-lg-between">
-          <h1 class="logo me-auto me-lg-0"><a href="index.html">KnightOne</a></h1>
+          <h1 class="logo me-auto me-lg-0"><a href="/">City Star</a></h1>
           <!-- Uncomment below if you prefer to use an image logo -->
           <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -54,24 +54,6 @@
               <li><a class="nav-link scrollto" href="#about">About</a></li>
               <li><a class="nav-link scrollto" href="#services">Services</a></li>
               <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-              <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
-              <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-                <ul>
-                  <li><a href="#">Drop Down 1</a></li>
-                  <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                    <ul>
-                      <li><a href="#">Deep Drop Down 1</a></li>
-                      <li><a href="#">Deep Drop Down 2</a></li>
-                      <li><a href="#">Deep Drop Down 3</a></li>
-                      <li><a href="#">Deep Drop Down 4</a></li>
-                      <li><a href="#">Deep Drop Down 5</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="#">Drop Down 2</a></li>
-                  <li><a href="#">Drop Down 3</a></li>
-                  <li><a href="#">Drop Down 4</a></li>
-                </ul>
-              </li>
               <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
@@ -89,8 +71,8 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-xl-8">
-          <h1>KnightOne - Create Bootstrap Website Template</h1>
-          <h2>We are team of designers making websites with Bootstrap</h2>
+          <h1>City Star Digital It - Rajshahi</h1>
+          <h2>We are team of affiliate marketers.</h2>
           <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4"></a>
         </div>
       </div>
@@ -592,7 +574,7 @@
       </div>
 
       <div>
-        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps/d/embed?mid=1S5JxMryEPrASaDwjGZcr3h_zhW0" width="640" height="480"></iframe>
       </div>
 
       <div class="container">
@@ -604,19 +586,19 @@
               <div class="address">
                 <i class="ri-map-pin-line"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Rajshahi</p>
               </div>
 
               <div class="email">
                 <i class="ri-mail-line"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>masudranam.n56@gmail.com</p>
               </div>
 
               <div class="phone">
                 <i class="ri-phone-line"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>+8801798109494</p>
               </div>
 
             </div>
@@ -660,7 +642,7 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
-      <h3>KnightOne</h3>
+      <h3>City Star</h3>
       <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
       <div class="social-links">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -670,14 +652,7 @@
         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
       <div class="copyright">
-        &copy; Copyright <strong><span>KnightOne</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        &copy; Copyright <strong><span>City Star</span></strong>. All Rights Reserved
       </div>
     </div>
   </footer><!-- End Footer -->
